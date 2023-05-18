@@ -1,6 +1,7 @@
 {
     "name": "Big City",
-    "guid": "5cdaf0f9-fc5e-4bbc-bab3-ef4f0c3595a1",
+    "guid": "9d5ccaf4-b3b3-429a-bc5b-a7281ec08d12",
+    "database_guid": "1d536ed1-7f98-e6fa-c684-d22535e051f5",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -11,8 +12,8 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "f219ecab-2683-4910-8f8e-9309bbe2eb9f",
-    "default_scene": "e77167e0-6d3d-4757-b7f5-a098c55574ce",
+    "thumbnail_guid": "0f38d189-0f59-4b17-90c1-edd5b78be057",
+    "default_scene": "f40fe1b9-888c-4c81-b221-2369d6c72170",
     "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {

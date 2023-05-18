@@ -1,0 +1,1089 @@
+{
+    "guid": "f52bd7b9-a539-f8ab-aefa-f1fd2785118e",
+    "source": "../SC_Big_City.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e66bd1c6-4eb6-dff3-41ae-aa7d5df3de76",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Big City"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fb550d6e-0d3d-c7fb-63f7-f157e8bd9f96",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Small 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    10.0,
+                    -30.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "573689f6-33f5-3a28-57de-f6a89a401fe2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3c73dd69-d414-4332-2213-17d4d3030bf4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Small 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    23.0,
+                    10.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "20c6d805-1b27-2eca-0891-71c09cb9bc5a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "86dcc79c-03a9-d461-02dc-f6ba2346c9c4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Small 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    18.0,
+                    10.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "65d6f171-c021-1e6f-6c91-c8f2cdcdcb20"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c73c3dd8-682d-863a-e263-84686aaae964",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Small 04"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    21.0,
+                    -8.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    -89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bf9f529b-a61e-b4bf-22d0-4dd8a90216c1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5d590ea0-6a63-84c0-0819-464986e0c927",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Small 05"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    10.0,
+                    -38.0,
+                    0.0
+                ],
+                "rotation": [
+                    -0.0,
+                    -0.0,
+                    -179.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "49bd8ab8-0a6f-1c79-5660-11a7d8ff40df"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b6307dd8-1fc5-ed14-cc4e-73672169fd17",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Small 06"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    -10.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    -89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "81f84172-0ac7-ff4e-0807-3cd2fcf93a48"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "43f7900a-5715-2b6c-ceaf-46f1b4f637a1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Detail Umbrella"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    11.0,
+                    -10.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b74aa7e1-8da9-71ff-e652-80252dedfcd4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fc9c6e80-cfcd-659a-5f5f-f572ce16b425",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Large 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -29.0,
+                    32.5235,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "64f11477-f92c-6c89-3230-98a7579b9151"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c942c7ed-a099-1aa1-c0c9-c87906e7aa77",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Large 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -10.0,
+                    -10.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "346edc9a-7e81-ec0e-ca77-46067d935b4e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ff096b27-5553-0c92-7164-562a82fa7411",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Large 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    30.0,
+                    4.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "651076da-0884-49b2-3fd9-29a3a3c06cf2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4c90a1dc-2cff-3746-235d-7684cfead9b4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Large 04"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.0,
+                    1.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a307b0fe-bb3d-4496-294a-d04d52be528e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e91c09dd-4e86-62ad-de1d-9a9cbcdd69d4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Large 05"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.0,
+                    37.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e1e6479b-6c82-38f3-99c4-aa6c01eb25f5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e384018d-b741-74e3-e8d8-9f8644bde9b5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Large 06"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    10.0,
+                    0.0,
+                    0.0
+                ],
+                "rotation": [
+                    -0.0,
+                    -0.0,
+                    -179.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7aeb1e1f-a871-d8f9-2374-ddb7249e96ad"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f307d50a-074c-8fa3-887f-4890c1f1117b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Large 07"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.0,
+                    -36.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "36be5ef4-1335-0670-b209-ceb0f9a59d6d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "67911464-6023-305f-3f3b-a275a221e698",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    15.4642,
+                    -8.9999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fc61db02-8cdb-db9d-860f-5d06325c563e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9d42e393-aef1-e814-b02b-73687017eb54",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    17.4642,
+                    -8.9999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "78e758c4-6dea-db58-15d7-41221782095f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "46e2286d-e2fc-3a39-d30b-aeebc8330122",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    18.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a832527a-c076-4b61-5063-6ff77d744d53"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0a4e67ce-b409-2f91-ee9c-02db87ef2d37",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 04"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    14.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "52001011-bc1c-a505-f498-b02f60d033c6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8ed4f416-76a9-38cb-c273-03a6f3034c9d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 05"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    11.0,
+                    7.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "29cd2fda-8f2b-8248-ffac-0dabe5932eab"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "289df309-f680-d448-c469-5084ce93e039",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 06"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    10.0,
+                    -7.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "56fe2510-67b5-9fe4-d939-89be9ac89289"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1d8f020b-2945-7b54-572a-5c103568e01d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 07"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    27.0,
+                    9.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0421fde3-6971-130f-7723-ffcf975b1e69"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c26a422c-91d5-ea74-3d6b-4ccb841e0c17",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 08"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    10.0,
+                    -44.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4327fa9-7fc8-d629-5f79-cc65d669f42b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "98d697b5-4843-ce41-289d-1bcd45c6d249",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 09"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    19.0,
+                    -30.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9eb8288e-af0e-e711-83b4-92bbb89df11e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ba6e183e-c42b-28c0-8ac9-ed5fc7ab5e91",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 10"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    16.0,
+                    -30.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9000c509-afb3-3a40-4f06-603ed7c219a3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "150a46bc-c1b3-50fb-66e5-7c162de67a2e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 11"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    22.0,
+                    -30.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "61ef4e13-cf01-3dfe-4505-fb52f27c1a05"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8401b2a8-c9b4-f240-949b-8d067c4f3258",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 12"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    30.0,
+                    8.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0f4bdcc6-2b56-1c67-9367-0904c0bd89d9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d42e8346-d20a-754b-a8b2-be0d5ab6fd51",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 13"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    11.0,
+                    -47.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5e1d7915-102c-12b6-263e-d878c711bf05"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d544fea7-ca51-3448-1203-e778236b0457",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 14"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -21.8698,
+                    11.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "772e59ff-d6b6-fa79-30b3-e0e0b264d81e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "de98fee2-9d98-86ba-2435-bb8d64568c84",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Low Wide 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -24.0,
+                    -9.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4436bcfc-4dd1-0820-9d5a-70beb7a191c5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "07d645d8-5cd9-0a73-fb53-1caa25f7da34",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Low Wide 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    13.0,
+                    -31.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2386d4c9-5521-74f2-e256-7385b83375fd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2846787e-8f05-b235-58ae-d6edcb02bdb2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skyscraper 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.0,
+                    9.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "659e4924-7aed-1ed9-79cb-b506a3650279"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1ec37868-cffc-9fb6-0b47-f01f1e80ebfb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skyscraper 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -29.0,
+                    -9.0,
+                    0.0
+                ],
+                "rotation": [
+                    -0.0,
+                    -0.0,
+                    -179.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f88a1348-b906-9b8d-883d-245f68993c69"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f9cfd9e9-7578-47c9-8787-b98356274ca6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skyscraper 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -29.0,
+                    -3.0,
+                    0.0
+                ],
+                "rotation": [
+                    -0.0,
+                    -0.0,
+                    -179.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "579833d7-b5b3-dc9b-470a-8194ff15d026"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "97431466-28b4-6f4a-2754-b9bbad22f621",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skyscraper 04"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.0,
+                    31.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0d060270-845c-d78e-7bfb-acb45af7a8c4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1b38c8ff-2a9e-ac3b-aefd-111d2af77c90",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skyscraper 05"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -17.3947,
+                    9.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    -89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b42d2915-44f4-3839-43d2-208086aedf66"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6715f61d-fbd0-7fd5-fe2e-39161a91ab3b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skyscraper 06"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.0,
+                    -5.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c18ebf46-606e-2d1d-8e41-cd121f5f6088"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5e9fe35d-b48b-d6e1-f1a6-ee4a4e201a95",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 14.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -24.5764,
+                    11.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "772e59ff-d6b6-fa79-30b3-e0e0b264d81e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7dee1997-5381-69d1-86ae-b4587696520b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building 14.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -31.0,
+                    39.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "772e59ff-d6b6-fa79-30b3-e0e0b264d81e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "edee625c-fd51-6957-91fd-f50b46d5a96a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Square"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    20.0,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4a96a99a-35ae-0ad1-9131-960294a147d0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cb1e9944-2d20-b8f8-638c-9cd4dd38da4f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Square.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -40.0,
+                    -20.0,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4a96a99a-35ae-0ad1-9131-960294a147d0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e8f721fd-4438-bf87-f63c-510a4d2fb088",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road T Junction"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -80.0,
+                    20.0,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "41768214-30e7-f97d-fadb-db6168b0a193"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4c8f0eac-bee4-c206-6711-c60c7967471b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Straight.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -60.0,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dd53583a-40e1-b621-6105-e323415d9a2a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e485fe97-13da-373e-38d5-9ea651c9e6cc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Straight"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -40.0,
+                    -60.0,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dd53583a-40e1-b621-6105-e323415d9a2a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0b1681dd-afd6-9df1-d983-b8083ea52652",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Square.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -40.0,
+                    20.0,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4a96a99a-35ae-0ad1-9131-960294a147d0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ed0d8181-bf4f-93b0-09b1-f55d37b01336",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Square.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -20.0,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4a96a99a-35ae-0ad1-9131-960294a147d0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e9b9f152-0591-f9ec-b34a-0f58e307313b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Square.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    40.0,
+                    20.0,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4a96a99a-35ae-0ad1-9131-960294a147d0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "681570c7-384b-60fa-6b6e-11e26725065a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Square.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    40.0,
+                    -20.0,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4a96a99a-35ae-0ad1-9131-960294a147d0"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f52bd7b9-a539-f8ab-aefa-f1fd2785118e"
+    },
+    "dependencies": [
+        "573689f6-33f5-3a28-57de-f6a89a401fe2",
+        "20c6d805-1b27-2eca-0891-71c09cb9bc5a",
+        "65d6f171-c021-1e6f-6c91-c8f2cdcdcb20",
+        "bf9f529b-a61e-b4bf-22d0-4dd8a90216c1",
+        "49bd8ab8-0a6f-1c79-5660-11a7d8ff40df",
+        "81f84172-0ac7-ff4e-0807-3cd2fcf93a48",
+        "b74aa7e1-8da9-71ff-e652-80252dedfcd4",
+        "64f11477-f92c-6c89-3230-98a7579b9151",
+        "346edc9a-7e81-ec0e-ca77-46067d935b4e",
+        "651076da-0884-49b2-3fd9-29a3a3c06cf2",
+        "a307b0fe-bb3d-4496-294a-d04d52be528e",
+        "e1e6479b-6c82-38f3-99c4-aa6c01eb25f5",
+        "7aeb1e1f-a871-d8f9-2374-ddb7249e96ad",
+        "36be5ef4-1335-0670-b209-ceb0f9a59d6d",
+        "fc61db02-8cdb-db9d-860f-5d06325c563e",
+        "78e758c4-6dea-db58-15d7-41221782095f",
+        "a832527a-c076-4b61-5063-6ff77d744d53",
+        "52001011-bc1c-a505-f498-b02f60d033c6",
+        "29cd2fda-8f2b-8248-ffac-0dabe5932eab",
+        "56fe2510-67b5-9fe4-d939-89be9ac89289",
+        "0421fde3-6971-130f-7723-ffcf975b1e69",
+        "c4327fa9-7fc8-d629-5f79-cc65d669f42b",
+        "9eb8288e-af0e-e711-83b4-92bbb89df11e",
+        "9000c509-afb3-3a40-4f06-603ed7c219a3",
+        "61ef4e13-cf01-3dfe-4505-fb52f27c1a05",
+        "0f4bdcc6-2b56-1c67-9367-0904c0bd89d9",
+        "5e1d7915-102c-12b6-263e-d878c711bf05",
+        "772e59ff-d6b6-fa79-30b3-e0e0b264d81e",
+        "4436bcfc-4dd1-0820-9d5a-70beb7a191c5",
+        "2386d4c9-5521-74f2-e256-7385b83375fd",
+        "659e4924-7aed-1ed9-79cb-b506a3650279",
+        "f88a1348-b906-9b8d-883d-245f68993c69",
+        "579833d7-b5b3-dc9b-470a-8194ff15d026",
+        "0d060270-845c-d78e-7bfb-acb45af7a8c4",
+        "b42d2915-44f4-3839-43d2-208086aedf66",
+        "c18ebf46-606e-2d1d-8e41-cd121f5f6088",
+        "4a96a99a-35ae-0ad1-9131-960294a147d0",
+        "41768214-30e7-f97d-fadb-db6168b0a193",
+        "dd53583a-40e1-b621-6105-e323415d9a2a"
+    ]
+}
